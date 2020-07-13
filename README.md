@@ -15,6 +15,7 @@
 
 * 可下载本例在HBuilder中运行查看
 * 或直接使用components下的ren-enIndex组件
+* [DCloud插件市场地址](https://ext.dcloud.net.cn/plugin?id=1828)
 
 ###  :warning:
 * 排序后的数据存放在`sortedData`且`hasData`为`true`中
